@@ -3,6 +3,8 @@
     
     section .text
     
+	; hola esto es un comentario para probar git
+	
     ;RCX(ptr_imagen), RDX(ancho), R8(alto), r10(umbral)
     
 sse_imagen_a_blanco_y_negro:
